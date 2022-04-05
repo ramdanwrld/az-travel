@@ -2,6 +2,7 @@ TUGAS BESAR APLIKASI BERBASIS PLATFORM
 AZ TRAVEL
 
 Anggota:
+
 -Azmi Aulia Rahman (1301184086)
 
 -Muhamad Rifqi Supriadi (130118056)
