@@ -45,7 +45,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
           <li><a class="nav-link scrollto" href="#paketwisata">Paket Wisata</a></li>
           <li><a class="nav-link scrollto" href="#galeri">Galeri</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Kontak Kami </a></li>&nbsp;&nbsp;&nbsp;
+          <li><a class="nav-link scrollto " href="#kontak">Kontak Kami </a></li>&nbsp;&nbsp;&nbsp;
           <li button type="button" class="btn btn-warning btn-sm">Masuk</li>&nbsp;&nbsp;&nbsp;
           <li button type="button" class="btn btn-light btn-sm">Daftar</li>
         </ul>
@@ -344,7 +344,7 @@
       </div>
     </div>
   </section><!-- End Counts Section -->
-  <section id="hotline" class="d-flex align-items-center abu-bg">
+  <section id="kontak" class="d-flex align-items-center abu-bg">
     <div class="container">
       <center>
           <img src="assets/img/hubungi.png" class="img-fluid" alt="" width="800" height="500">
